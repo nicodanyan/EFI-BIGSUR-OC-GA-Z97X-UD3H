@@ -17,13 +17,13 @@ This repository contains EFI files required for my OpenCore 0.6.4 boot setup wit
 # Software Information
 | **Soft** | **Version** |
 |---|---|
-| OpenCore | 0.6.4 |
-| AppleALC | 1.7.1 |
-| IntelMausiEthernet | 1.0.7 |
+| OpenCore | 0.8.1 |
+| AppleALC | 1.7.2 |
+| IntelMausi | 1.0.7 |
 | Lilu | 1.6.0 |
 | USBInjectAll | 0.7.6 |
 | VirtualSMC | 1.2.9 |
-| WhateverGreen | 1.5.8 |
+| WhateverGreen | 1.5.9 |
 | SSDT-EC-DESKTOP | Haswel |
 | SSDT-PLUG-DRTNIA | Haswel |
 
