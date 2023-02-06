@@ -20,8 +20,8 @@ This repository contains EFI files required for my OpenCore 0.8.8 boot setup wit
 | OpenCore | 0.8.8 |
 | AppleALC | 1.7.8 |
 | IntelMausi | 1.0.7 |
-| Lilu | 1.6.0 |
-| USBInjectAll | 0.7.6 |
+| Lilu | 1.6.3 |
+| USBInjectAll | 0.7.8 |
 | VirtualSMC | 1.3.0 |
 | WhateverGreen | 1.6.3 |
 | SSDT-EC-DESKTOP | Haswel |
